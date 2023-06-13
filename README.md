@@ -33,7 +33,7 @@ It analyzes code snippets and identify potential issues or areas for optimizatio
 Code Review and Refactoring:
 ChatGPT proposes alternative approaches or design patterns such as refactoring their codes  to improve readability, maintainability, and scalability. 
 
-Version Control and Collaboration
+Version Control and Collaboration:
 It guides developers through common Git commands, such as committing changes, branching, merging, and pushing code to repositories.
 It  facilitates collaboration between developers by providing suggestions and feedback on code changes. It can review pull requests, identify potential conflicts or improvements, and help resolve issues raised during the code review process.
 
